@@ -1,0 +1,23 @@
+{
+  "name": "@neogeek/lerp",
+  "description": "Simple lerping functions.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "math"
+  ],
+  "authors": [
+    {
+      "name": "Scott Doxey",
+      "email": "hello@scottdoxey.com",
+      "homepage": "http://scottdoxey.com/"
+    }
+  ],
+  "homepage": "https://github.com/neogeek/lerp",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/neogeek/lerp.git"
+  },
+  "private": true
+}
